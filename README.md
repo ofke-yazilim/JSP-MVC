@@ -1,4 +1,4 @@
-# JSP-MVC
+<h1>JSP-MVC</h1>
         <li>Bu proje JSP kullanılarak mvc yapısında oluşturulmuş bir kalıptır.</li>
         <li>Mvc sınıflarnı içeren klasör yapılarına ulaşmak için tıklayın : 
             https://github.com/ofke-yazilim/JSP-MVC/tree/master/jsp-mvc/src/java/app</li>
